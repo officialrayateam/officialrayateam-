@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi Friends , Welcome to Raya.❤️
+## Hi Friend , Welcome to Raya.❤️
 
 
 <!-- Your badges
